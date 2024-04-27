@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_dialog_add_sport.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/dialog_add_sport.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_news_item.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/news_item.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_fragment_historical_sports_archive.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/fragment_historical_sports_archive.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_item_athlete.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/item_athlete.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_fragment_about_me.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/fragment_about_me.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_item_sports.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/item_sports.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_fragment_news.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_dialog_add_event.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/dialog_add_event.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_fragment_athletes.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/fragment_athletes.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_item_event.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.example.sportsnews.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sportsnews.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/drawable_ic_baseline_calendar_month_24.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/drawable/ic_baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/drawable_ic_baseline_history_edu_24.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/drawable/ic_baseline_history_edu_24.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_dialog_add_athlete.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/dialog_add_athlete.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_dialog_add_news.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/dialog_add_news.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_item_history.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/item_history.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_fragment_events.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/fragment_events.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/drawable_ic_baseline_language_24.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/drawable/ic_baseline_language_24.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_dialog_add_history.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/dialog_add_history.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/layout_fragment_sports.xml.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/layout/fragment_sports.xml"
+    },
+    {
+        "merged": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/javokhirbuvanazarov/.gradle/daemon/7.4/com.example.sportsnews.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]
